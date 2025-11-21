@@ -1,0 +1,4 @@
+pytubefix
+faster-whisper
+pydub
+torch
